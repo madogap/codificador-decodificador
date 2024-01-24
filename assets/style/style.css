@@ -2,7 +2,7 @@
 
 body {
     background-color: black;
-    background-image: url('./img/background_1920x1080.jpg');
+    background-image: url('./img/code.png');
     color: #fff;
     font-family: 'Matrix', 'sans-serif';
     font-size: 1.5rem;
@@ -42,9 +42,10 @@ body {
 }
 
 #digiteTexto {
-    background-color: rgba(3, 47, 32, 0.35);
+    background-color: rgba(8, 137, 94, 0.35);
     backdrop-filter: blur(10px);
-    border: 1px rgba(5, 35, 23, 0.35) solid;
+    border: 1px rgba(11, 80, 53, 0.35) solid;
+    border-radius: 12px;
     color: #C1FDD5;
     position: relative;
     left: 20px;
@@ -169,7 +170,7 @@ body {
 
     padding: 24px;
     gap: 8;
-    /* border: #fff 1px solid; */
+
 }
 
 .buttonCriptografar,

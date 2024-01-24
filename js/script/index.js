@@ -1,8 +1,7 @@
-
-semMensagem()
+semMensagem();
 function semMensagem() {
     let mensagem = ('<div class="msgInicial">' +
-        ' <img src="./style/img/lupa.png" width="336" alt="">' +
+        ' <img src="./assets/style/img/second.png" width="336" alt="Imagem second">' +
         '<p class="titulo">Nenhuma mensagem encontrada.</p>' +
         '<p class="msn_alerta">Digite um texto que você deseja criptografar ou descriptografar.</p>' +
         '</div>');
