@@ -35,10 +35,10 @@ Manipulação de paginás web com estilização e utilizando com JavaScript para
 Técnologias e recursos utilizados.
 ### HTML5 | CSS | Formulários | Responsividade | Flex-Box | Media Queries | Estilização | JavaScript | DOM | Funções | Set Timeout | Estruturas de repetição
 
-<strong>Alura Cursos & Oracle</strong>
-
-![Logo-alura](/assets/style/img/logo-alura.svg "Hover text")
-
 ### Apresentando
 
 ![Apresenta](/assets/style/img/apresenta.png "Hover text")
+
+<strong>Alura Cursos & Oracle</strong>
+
+![Logo-alura](/assets/style/img/logo-alura.svg "Hover text")
