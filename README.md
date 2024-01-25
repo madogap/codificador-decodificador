@@ -1,7 +1,9 @@
 <h1>Decodificador de Texto </h1>
-<hr>
+
+![Second](/assets/style/img/second.png "Hover text")
+
 <h2>Sobre</h2>
-Uma aplicação que encriptografa mensagens digitadas e descriptografa mensagens encriptografadas por este. Onde poderás brincar com seus amigos e colegas em troca de mensagens secretas!
+<h3>Uma aplicação que encriptografa mensagens digitadas e descriptografa mensagens encriptografadas por este. Onde poderás brincar com seus amigos e colegas em troca de mensagens secretas!</h3>
 
 As "chaves" de criptografia utilizadas são:
 * A letra "e" é convertida para "enter."
@@ -30,16 +32,9 @@ Objetivo do projeto
 Atestar e solidificar o aprendizado adquirido durante o modúlo de JavaScript na Alura. manipulação de paginás web utilizando Java Script.
 
 Técnologias e recursos utilizados.
-## HTML5
-## Formulários
-## CSS
-## Responsividade
-## Flex-Box
-## Media Queries
-## Estilização.
-## JavaScript
-## DOM.
-## Funções
-## Set Timeout
-## Estruturas de repetição
+### HTML5 | CSS | Formulários | Responsividade | Flex-Box | Media Queries | Estilização | JavaScript | DOM | Funções | Set Timeout | Estruturas de repetição
+
+<strong>Alura Cursos & Oracle</strong>
+
+![Logo-alura](/assets/style/img/logo-alura.svg "Hover text")
 
