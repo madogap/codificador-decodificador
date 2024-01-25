@@ -41,4 +41,4 @@ Técnologias e recursos utilizados.
 
 ### Apresentando
 
-![Apresemtacao](/assets/style/img/apresentacao.png "Hover text")
+![Apresenta](/assets/style/img/apresenta.png "Hover text")
