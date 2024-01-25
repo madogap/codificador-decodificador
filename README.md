@@ -29,7 +29,8 @@ A página contém campos para inserção do texto a ser criptografado ou descrip
 O resultado é exibido na tela.
 
 Objetivo do projeto
-Atestar e solidificar o aprendizado adquirido durante o modúlo de JavaScript na Alura. manipulação de paginás web utilizando Java Script.
+Atestar e solidificar o aprendizado adquirido durante o modúlo de JavaScript na Alura.
+Manipulação de paginás web com estilização e utilizando com JavaScript para interatividade.
 
 Técnologias e recursos utilizados.
 ### HTML5 | CSS | Formulários | Responsividade | Flex-Box | Media Queries | Estilização | JavaScript | DOM | Funções | Set Timeout | Estruturas de repetição
