@@ -39,3 +39,6 @@ Técnologias e recursos utilizados.
 
 ![Logo-alura](/assets/style/img/logo-alura.svg "Hover text")
 
+### Apresentando
+
+![Apresemtacao](/assets/style/img/apresemtacao.svg "Hover text")
